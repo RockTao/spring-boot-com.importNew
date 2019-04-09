@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>springboot-learn</groupId>
@@ -9,7 +10,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.12.RELEASE</version>
-		<relativePath />
+		<relativePath/>
 	</parent>
  
 	<properties>
@@ -24,5 +25,10 @@
 		<module>chapter11</module>
 		<module>chapter12</module>
 		<module>springboot-rabbitmq</module>
+		<module>chapter13</module>
+    <module>chapter16</module>
+    <module>chapter20</module>
+    <module>chapter21</module>
+    <module>chapter22</module>
 	</modules>
 </project>
