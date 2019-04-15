@@ -1,0 +1,7 @@
+需要修改redis的对应的ip
+
+1、spring-boot-dubbo-api-->Run  AS -->  Maven instakll
+
+2、 spring-boot-dubbo-provider  -->以springboot的方式启动
+
+3、spring-boot-dubbo-consumer --> 以springboot的方式启动

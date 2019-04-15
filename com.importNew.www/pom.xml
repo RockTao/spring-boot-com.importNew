@@ -30,5 +30,18 @@
     <module>chapter20</module>
     <module>chapter21</module>
     <module>chapter22</module>
+    <module>chapter23</module>
+    <module>chapter25</module>
+    <module>chapter26</module>
+    <module>chapter27</module>
+    <module>chapter28</module>
+    <module>chapter28-server</module>
+    <module>chapter29-dubbo</module>
+    <module>chapter30</module>
+    <module>chapter31</module>
+    <module>chapter32</module>
+    <module>chapterr33</module>
+    <module>chapter35</module>
+    <module>chapter36</module>
 	</modules>
 </project>
